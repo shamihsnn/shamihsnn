@@ -42,27 +42,13 @@
   <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies">
 </div>
 
-## 🔥 Recent Projects
 
+
+🎧 Currently Listening To
 <div align="center">
-  <a href="https://github.com/yourusername/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=radical" alt="Project 1">
-  </a>
-  <a href="https://github.com/yourusername/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=radical" alt="Project 2">
-  </a>
-</div>
-
-## 📈 Activity Graph
-
-<div align="center">
-  <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night">
-</div>
-
-## 🎧 Currently Listening To
-
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=yourusername&cover_image=true&theme=default" alt="Spotify">
+  <!-- Alternative Spotify visual that doesn't require UID -->
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=shamihsnn&count=1" alt="Spotify Recently Played">
+  <p>Check out my playlist: <a href="https://open.spotify.com/playlist/6u3nbhzeQdS9josDxZp90Z?si=NdYn4aIdT4iEr9GGlqfjkA">My Favorite Tracks</a></p>
 </div>
 
 ## 💻 Coding Time Stats
@@ -71,14 +57,6 @@
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=yourusername&theme=radical" alt="WakaTime Stats">
 </div>
 
-## 🌐 Connect with Me
-
-<div align="center">
-  <a href="https://twitter.com/yourusername"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
-  <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://dev.to/yourusername"><img src="https://img.shields.io/badge/-Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to"></a>
-  <a href="https://medium.com/@yourusername"><img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
-</div>
 
 ## 🎮 Let's Play
 
