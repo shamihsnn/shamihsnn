@@ -11,7 +11,7 @@
 - 👯 I'm looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **js, py, ML**
 - 📫 How to reach me: **usamahsnnn@gmail.com**
-- ⚡ portflio: **https://netflix-portfolios.vercel.app**
+- ⚡ portflio: **https://usama-portfolio-site.vercel.app/**
 
 ## 🚀 Tech Stack
 
