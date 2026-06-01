@@ -34,21 +34,6 @@ Currently working on AI systems applied to communicable disease research. Buildi
 
 ---
 
-## GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shamihsnn&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-</div>
-
----
-
-## Currently Listening To
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=shamihsnn&count=1" alt="Spotify Recently Played" />
-  <p>Playlist → <a href="https://open.spotify.com/playlist/6u3nbhzeQdS9josDxZp90Z?si=NdYn4aIdT4iEr9GGlqfjkA">My Favorite Tracks</a></p>
-</div>
-
 ---
 
 <div align="center">
